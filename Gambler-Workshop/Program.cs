@@ -6,7 +6,9 @@ namespace Gambler_Workshop
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
+
+    
 }
